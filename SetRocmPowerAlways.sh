@@ -1,5 +1,5 @@
-#MAX_POWER is in Watts and should reflect a value that you as the user are 100% certain can handle!
 #!/bin/bash
+#MAX_POWER is in Watts and should reflect a value that you as the user are 100% certain can handle!
 MAX_POWER=80
 while :
 do
